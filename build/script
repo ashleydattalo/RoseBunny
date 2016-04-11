@@ -1,0 +1,4 @@
+cmake ..
+make
+./Assignment1 ../resources/bunny.obj output.png 400 600 1
+open output.png

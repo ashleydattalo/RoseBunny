@@ -1,0 +1,8 @@
+cmake ..
+make
+./Assignment1 ../resources/bunny.obj bunny.png 1012 1012 1
+./Assignment1 ../resources/teapot.obj teapot.png 1012 1012 1
+./Assignment1 ../resources/sphere.obj sphere.png 1012 1012 1
+open bunny.png
+open teapot.png
+open sphere.png

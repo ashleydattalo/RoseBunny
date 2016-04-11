@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++0x -Wall -pedantic -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignment1.dir/src/Image.cpp.o CMakeFiles/Assignment1.dir/src/main.cpp.o CMakeFiles/Assignment1.dir/src/Triangle.cpp.o CMakeFiles/Assignment1.dir/src/Vertex.cpp.o  -o Assignment1  
